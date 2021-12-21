@@ -1,1 +1,1 @@
-# surprise-burger
+# burger generator
